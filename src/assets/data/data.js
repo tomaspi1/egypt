@@ -16,7 +16,7 @@ export const blog = [
     cover: "../images/blogs/b10.jpg",
     date: "20. LEDNA 2025",
   },
-  {
+  /* {
     id: 2,
     title: "Mocní bohové Egypta a jejich vliv",
     desc: "<p>Poznej příběhy egyptských bohů a zjisti, jak nás mohou inspirovat k lepšímu životu...</p>",
@@ -87,7 +87,7 @@ export const blog = [
     category: "Příroda",
     cover: "../images/blogs/b1.jpg",
     date: "4. ÚNORA 2025",
-  },
+  }, */
 ];
 
 export const getArticleById = (id) => {
