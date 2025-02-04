@@ -16,14 +16,15 @@ export const blog = [
     cover: "../images/blogs/b10.jpg",
     date: "20. LEDNA 2025",
   },
-  /* {
+   {
     id: 2,
-    title: "Mocní bohové Egypta a jejich vliv",
-    desc: "<p>Poznej příběhy egyptských bohů a zjisti, jak nás mohou inspirovat k lepšímu životu...</p>",
+    title: "Co je to Ankh ?",
+    desc: "<p>Ankh, známý také jako kříž  nebo klíč života. Na webu ho máme jako logo. Je jedním z nejvýznamnějších symbolů starověkého Egypta. Tento symbol vypadá jako kříž s očkem na vrcholu a je spojený s mnoha duchovními, náboženskými a filozofickými významy. V egyptské kultuře měl Ankh obrovský význam. 🌿</p><p>V podstatě Ankh symbolizoval věčný život, a proto byl často zobrazen v rukou bohů a bohyň, kteří byli považováni za nositele života, plodnosti a nesmrtelnosti. Ale nejen to, byl také symbolem rovnováhy mezi světem živých a mrtvých. Věčný život, příteli, kdo by ho nechtěl, že? ✨</p><p><strong>Kde se Ankh objevuje?</strong></p><p>Tento symbol se objevoval téměř na každém možném místě ve starověkém Egyptě. Byl vytesán na stélách, malován na stěnách hrobek, a dokonce i na špercích. V hrobkách faraonů bylo možné najít zlaté ankhy, které sloužily jako talismany, jež měly zajistit, že jejich nositelé budou po smrti žít věčně. 🌟</p><p><strong>Duchovní význam</strong></p><p>Duchovní význam Ankh je hluboký a vícevrstvý. Očká na vrcholu symbolu bylo často interpretováno jako 'nebe' nebo 'slunce', zatímco vertikální část symbolizovala 'zemi' a 'život'. Takže Ankh je v podstatě symbolem spojení mezi nebesy a zemí, mezi tímto a posmrtným životem. Když o tom přemýšlíš, je to jako mít přímý přístup k tajemství vesmíru! 🌌</p><p><strong>Ankh ve zkratce:</strong></p><ul><li><strong>Symbol života a nesmrtelnosti</strong> – Ankh je symbolem věčnosti, který zajišťoval, že život bude pokračovat i po smrti.</li><li><strong>Duchovní a náboženský význam</strong> – byl používán k ochraně před smrtí a zlem, ale také k dosažení vnitřní rovnováhy a harmonie.</li><li><strong>Propojení s bohy</strong> – Ankh je často spojený s bohy, zejména bohem slunce Ra a bohyní Isis, která byla považována za ochránkyni života.</li><li><strong>Vliv na západní kulturu</strong> – i dnes je Ankh populárním symbolem v moderní kultuře, včetně tetování, šperků a pop-kultury.</li></ul>",
     category: "Mytologie",
     cover: "../images/blogs/b9.jpg",
     date: "22. LEDNA 2025",
   },
+  /*
   {
     id: 3,
     title: "Cesta faraona k věčnosti",
