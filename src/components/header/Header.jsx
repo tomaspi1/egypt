@@ -25,7 +25,10 @@ export const Header = () => {
                 </li>
               ))}
             </ul>
+          
           </nav>
+
+          {/* zakomentovano - panel na login*/}
           {/* <div className='account flexCenter'>
             <User />
           </div> */}
