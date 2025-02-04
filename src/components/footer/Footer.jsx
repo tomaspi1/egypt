@@ -8,15 +8,18 @@ export const Footer = () => {
     <>
       <footer className='boxItems'>
         <div className='container flex'>
-          <p>Cartsy Medicine - All right reserved - Design & Developed by RedQ, Inc</p>
-          <div className='social'>
+          <p>&copy; Starý Egypt 2025</p>
+          {/* <div className='social'>
             <BsFacebook className='icon' />
             <RiInstagramFill className='icon' />
             <AiFillTwitterCircle className='icon' />
             <AiFillLinkedin className='icon' />
-          </div>
+          </div> */}
         </div>
       </footer>
     </>
   )
 }
+
+
+/* zakomentovano - paticka */

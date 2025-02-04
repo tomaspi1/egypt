@@ -17,8 +17,10 @@ export const Card = () => {
               <div className='details'>
                 <div className='tag'>
                   <AiOutlineTags className='icon' />
-                  <a href='/'>#{item.category}</a>
-                </div>
+                  {/* zakomentovano - odkaz, dal jsem span # */}
+                  {/*  <a href='/'>#{item.category}</a> */}
+                  <span>{item.category}</span>
+                  </div>
                 <Link to={`/details/${item.id}`} className='link'>
                   <h3>{item.title}</h3>
                 </Link>
