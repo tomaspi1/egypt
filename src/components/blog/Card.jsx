@@ -25,9 +25,9 @@ export const Card = () => {
                 <p>{item.desc.slice(0, 180)}...</p>
                 <div className='date'>
                   <AiOutlineClockCircle className='icon' /> <label htmlFor=''>{item.date}</label>
-                  <AiOutlineComment className='icon' /> <label htmlFor=''>27</label>
-                  <AiOutlineShareAlt className='icon' /> <label htmlFor=''>SHARE</label>
-                </div>
+                  <AiOutlineComment className='icon' /> <label htmlFor=''>0</label>
+{/* zakomentovano- share */}{/*                   <AiOutlineShareAlt className='icon' /> <label htmlFor=''>SHARE</label>
+ */}                </div>
               </div>
             </div>
           ))}

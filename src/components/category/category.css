@@ -25,8 +25,10 @@
   height: 250px;
   background: rgba(0, 0, 0, 0.5);
 }
+
+/* nezakomentovano- místo pointer jsem dal default */
 .category .box {
-  cursor: pointer;
+  cursor: default;
   position: relative;
 }
 .category .overlay {

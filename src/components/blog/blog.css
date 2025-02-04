@@ -6,7 +6,7 @@
 }
 .blog .boxItems:hover {
   box-shadow: 0 2px 4px rgb(0 0 0 / 8%);
-  cursor: pointer;
+  cursor: default;
   transform: translateY(-5px);
 }
 .blog img {
