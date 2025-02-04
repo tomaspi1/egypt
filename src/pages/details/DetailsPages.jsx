@@ -1,6 +1,6 @@
 import React, { useState } from "react"
 import "./details.css"
-import "../../components/header/header.css"
+import "../../components/header/header.css" 
 import img from "../../assets/images/b5.jpg"
 import { BsPencilSquare } from "react-icons/bs"
 import { AiOutlineDelete } from "react-icons/ai"
@@ -29,12 +29,13 @@ export const DetailsPages = () => {
             </div>
             <div className='right'>
               <div className='buttons'>
-                <button className='button'>
+                {/* Zakomentovano-tlacitko v detailu */}
+              {/*   <button className='button'>
                   <BsPencilSquare />
                 </button>
                 <button className='button'>
                   <AiOutlineDelete />
-                </button>
+                </button> */}
               </div>
 {/*               <h1>BeWashtadine Feminine </h1>
  */}              <p>{blogs.desc}</p>
