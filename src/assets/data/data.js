@@ -29,7 +29,7 @@ export const nav = [
 export const category = [
   {
     id: 1,
-    category: "Životní síla",
+    category: "Životní síla jako Nil",
     title: "Zůstaň klidný jako Nil",
     cover: "../images/category/ca1.png",
   },
