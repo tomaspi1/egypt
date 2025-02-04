@@ -1,3 +1,6 @@
+
+
+
 .singlePage {
   padding: 50px 0;
   background: #fff;
@@ -11,12 +14,13 @@
   border-radius: 10px;
 }
 .singlePage h1 {
-  font-size: 30px;
+  font-size: 50px;
   font-weight: 500;
+  padding:30px;
 }
 .singlePage p {
-  margin: 20px 0;
-  font-size: 18px;
+  padding: 45px 0;
+  font-size: 20px;
   line-height: 2;
   text-transform: capitalize;
 }
