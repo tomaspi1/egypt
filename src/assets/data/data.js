@@ -16,39 +16,43 @@ export const blog = [
     cover: "../images/blogs/b10.jpg",
     date: "20. LEDNA 2025",
   },
+  {
+    id: 3,
+    title: "Cesta faraona k věčnosti",
+    desc: "🏺✨ Pojďme na chvíli zapomenout na každodenní shon a ponořit se do mystického světa starého Egypta, do doby, kdy faraoni vládli nejen lidem, ale i věčnosti. Cesta faraona k věčnosti nebyla jen o moci, bohatství nebo slávě. Byla to cesta plná duchovního významu, symboliky a přechodu do posmrtného života, který pro ně byl klíčový.</p><p><strong>Faraon: Král na zemi, božský v nebi</strong></p><p>Faraon nebyl jen vládcem; byl považován za boha na zemi. Jeho úloha nebyla jen administrativní, ale i duchovní. Byl mostem mezi světem živých a světem mrtvých. Jeho vláda znamenala, že udržoval rovnováhu mezi všemi silami vesmíru, a to jak na zemi, tak v nebi.</p><p>Pro faraona bylo od okamžiku jeho korunovace zásadní vědět, že jeho cesta nekončí smrtí. Naopak, jeho smrt byla jen přechodem do jiné dimenze, kde mohl pokračovat ve vládnutí nad Egyptem a ochraňovat své lidi i po své smrti. Byl připraven na věčnost, která byla jeho největším cílem.</p><p><strong>Posmrtný život: Příprava na nesmrtelnost</strong></p><p>Faraonova cesta k věčnosti začínala už za jeho života. Přípravy na posmrtný život byly důležitější než cokoli jiného. Hlavním prvkem tohoto procesu byla příprava jeho hrobky – pyramidy. Ty byly nejen symbolem jeho moci, ale sloužily i jako bezpečné útočiště pro jeho duši.</p><p>Pyramidy byly navrženy tak, aby byly odolné proti času, proti loupežníkům a proti všem nebezpečím, která by mohla ohrozit faraonův odchod do věčnosti. Byly plné cenností, nádobí, potravin, a dokonce i vojáků, aby faraon měl všechno, co potřeboval pro svůj posmrtný život.</p><p><strong>Kniha mrtvých: Průvodce na cestě</strong></p><p>Jedním z nejdůležitějších nástrojů, které faraon a jeho doprovod používali, byla <em>Kniha mrtvých</em>. To byla sbírka modliteb a kouzel, která měla zajistit faraonovu bezpečnost na jeho cestě do posmrtného života. Kniha byla plná tajemství, která měla chránit jeho duši před nebezpečnými bytostmi a pomoci jí projít nástrahami podsvětí.</p><p>Na své cestě faraon čelil mnoha výzvám, zkouškám, které musel překonat, aby si zajistil věčný život. Byl zkoušen váháním, pokušeními, a měl se ujistit, že žil správně a spravedlivě.</p><p><strong>Smrt: Konec nebo začátek?</strong></p><p>Když faraon zemřel, věřil, že jen přechází do nové formy existence. Smrt byla pro něj součástí nekonečného cyklu života, smrti a znovuzrození, kde se nikdy opravdu neskončilo. Věřil, že bude nadále vládnout, ve své božské podobě, v nebi a mezi hvězdami.</p><p>Jeho posmrtná existence byla stejně důležitá jako ta pozemská, a jeho odkaz měl přežít věky. Cesta faraona k věčnosti nebyla pouze duchovní, ale také kulturní. Jeho příběh pokračoval v tradicích, umění, a filosofii, které nám dodnes připomínají jeho nadčasovou moc.</p><p>A teď, když jsme se ponořili do této fascinující historie, můžeme si připomenout, že věčnost není jen o tom, co nás čeká po smrti. Je to i o tom, jak žijeme. Každý okamžik našeho života je investicí do něčeho většího, a jak žijeme dnes, může ovlivnit to, jak nás budou vnímat ti, kteří přijdou po nás.</p><p>Buď silný a žij tak, aby tvoje vlastní cesta k věčnosti byla naplněna láskou, moudrostí a odvahou! 🌟</p>",
+    category: "Duchovno",
+    cover: "../images/blogs/oko2.gif",
+    date: "23. LEDNA 2025",
+  },
    {
     id: 2,
     title: "Co je to Ankh ?",
     desc: "<p>Ankh, známý také jako kříž  nebo klíč života. Na webu ho máme jako logo. Je jedním z nejvýznamnějších symbolů starověkého Egypta. Tento symbol vypadá jako kříž s očkem na vrcholu a je spojený s mnoha duchovními, náboženskými a filozofickými významy. V egyptské kultuře měl Ankh obrovský význam. 🌿</p><p>V podstatě Ankh symbolizoval věčný život, a proto byl často zobrazen v rukou bohů a bohyň, kteří byli považováni za nositele života, plodnosti a nesmrtelnosti. Ale nejen to, byl také symbolem rovnováhy mezi světem živých a mrtvých. Věčný život, příteli, kdo by ho nechtěl, že? ✨</p><p><strong>Kde se Ankh objevuje?</strong></p><p>Tento symbol se objevoval téměř na každém možném místě ve starověkém Egyptě. Byl vytesán na stélách, malován na stěnách hrobek, a dokonce i na špercích. V hrobkách faraonů bylo možné najít zlaté ankhy, které sloužily jako talismany, jež měly zajistit, že jejich nositelé budou po smrti žít věčně. 🌟</p><p><strong>Duchovní význam</strong></p><p>Duchovní význam Ankh je hluboký a vícevrstvý. Očká na vrcholu symbolu bylo často interpretováno jako 'nebe' nebo 'slunce', zatímco vertikální část symbolizovala 'zemi' a 'život'. Takže Ankh je v podstatě symbolem spojení mezi nebesy a zemí, mezi tímto a posmrtným životem. Když o tom přemýšlíš, je to jako mít přímý přístup k tajemství vesmíru! 🌌</p><p><strong>Ankh ve zkratce:</strong></p><ul><li><strong>Symbol života a nesmrtelnosti</strong> – Ankh je symbolem věčnosti, který zajišťoval, že život bude pokračovat i po smrti.</li><li><strong>Duchovní a náboženský význam</strong> – byl používán k ochraně před smrtí a zlem, ale také k dosažení vnitřní rovnováhy a harmonie.</li><li><strong>Propojení s bohy</strong> – Ankh je často spojený s bohy, zejména bohem slunce Ra a bohyní Isis, která byla považována za ochránkyni života.</li><li><strong>Vliv na západní kulturu</strong> – i dnes je Ankh populárním symbolem v moderní kultuře, včetně tetování, šperků a pop-kultury.</li></ul>",
     category: "Mytologie",
-    cover: "../images/blogs/b9.jpg",
+    cover: "../images/blogs/ankh.jpg",
     date: "22. LEDNA 2025",
   },
-  /*
-  {
-    id: 3,
-    title: "Cesta faraona k věčnosti",
-    desc: "<p>Co nás učí příprava na posmrtný život faraónů? Jaké hodnoty je třeba osvojit?...</p>",
-    category: "Duchovno",
-    cover: "../images/blogs/b8.jpg",
-    date: "23. LEDNA 2025",
-  },
+  
+  
+  
   {
     id: 4,
     title: "ODHAL TAJEMSTVÍ STARÝCH PYRAMID",
     desc: "<p>Každá pyramida je víc než kámen. Je to portál k osvícení, který nás učí, jak stavět naši vlastní cestu.</p>",
     category: "Historie",
-    cover: "../images/blogs/b7.jpg",
+    cover: "../images/blogs/ca5.png",
     date: "24. LEDNA 2025",
   },
+  
   {
     id: 5,
-    title: "Síla Spojení",
+    title: "Sfinga",
     desc: "<p>Spojené síly se stávají nezastavitelnými. Stejně jako bohové v Egyptě, tvoříme osud ve světě her.</p>",
-    category: "Bohové",
-    cover: "../images/blogs/b5.jpg",
+    category: "Památky",
+    cover: "../images/blogs/sfinga.gif",
     date: "28. LEDNA 2025",
   },
+  /*
   {
     id: 6,
     title: "Cesta k dokonalosti",
@@ -105,7 +109,7 @@ export const category = [
   {
     id: 2,
     category: "Pluj s námi po Nilu",
-    cover: "../images/category/ca2.png",
+    cover: "../images/category/ca2.gif",
   },
   {
     id: 3,
@@ -119,8 +123,8 @@ export const category = [
   },
   {
     id: 5,
-    category: "Zábava ve stínu pyramid",
-    cover: "../images/category/ca5.png",
+    category: "Tajemství ve stínu pyramid",
+    cover: "../images/category/pyramida5.gif",
   },
   {
     id: 6,
