@@ -84,7 +84,7 @@ export const blog = [
     desc: "Když pohlédneš na Nil, pochopíš propojení všeho v tomto vesmíru. Naučí tě klidu v bouřích života, jako bohové, co čelí věčnosti. Jak proud řeky, tak i tvůj život, se neustále mění, ale vždy si najde svou cestu k moři. Můžeš se cítit ztracený, jako loď bez kompasu, ale pravda je, že i ztráta tě vede k novému začátku. Pamatuj, že skutečná síla není v tom, jak silně odoláváš vlnám, ale jak umíš plavat s proudem, když se ti zdá, že všechny cesty jsou uzavřené.Ať už čelíš čemukoliv, věz, že jsi součástí něčeho většího, něco nekonečného, a to tě má vést. Na každém kroku najdeš moudrost, kterou jsi hledal, jen se otevři novým možnostem a věř v sílu okamžiku.",
     category: "Příroda",
     cover: "../images/blogs/b1.jpg",
-    date: "5. LEDNA 2025",
+    date: "4. ÚNORA 2025",
     titleTag: "Cesta za Moudrostí"
   },
   {
@@ -93,7 +93,7 @@ export const blog = [
     desc: "Vesmír je plný bohatství. Zasvěceni v sílu změny, stáváme se nezastavitelnými, stejně jako bohové, kteří tvoří osud.",
     category: "Příroda",
     cover: "../images/blogs/b2.jpg",
-    date: "15. LEDNA 2025",
+    date: "4. ÚNORA 2025",
   },
   {
     id: 3,
@@ -101,7 +101,7 @@ export const blog = [
     desc: "Zůstaň klidný, když se ztrácíš. V hrobkách a chrámech najdeš odpovědi, stejně jako Nil ti ukáže cestu životem.",
     category: "Hrobky",
     cover: "../images/blogs/b3.jpg",
-    date: "15. LEDNA 2025",
+    date: "3. ÚNORA 2025",
   },
   {
     id: 4,
@@ -109,7 +109,7 @@ export const blog = [
     desc: "Každý krok tě přibližuje k moudrosti. Zasvěceni se stávají mistry, to je poselství faraonů.",
     category: "Vesmír",
     cover: "../images/blogs/b4.jpg",
-    date: "1. ÚNORA 2025",
+    date: "2. ÚNORA 2025",
   },
   {
     id: 5,
@@ -117,7 +117,7 @@ export const blog = [
     desc: "Spojené síly se stávají nezastavitelnými. Stejně jako bohové v Egyptě, tvoříme osud ve světě her.",
     category: "Bohové",
     cover: "../images/blogs/b5.jpg",
-    date: "1. ÚNORA 2025",
+    date: "28. LEDNA 2025",
   },
   {
     id: 6,
@@ -125,7 +125,7 @@ export const blog = [
     desc: "Spoj se s vesmírem a objev svou pravou sílu. Buď jako vážka, která vždy ví, kdy a kde být, žij v souladu s vesmírem.",
     category: "Vesmír",
     cover: "../images/blogs/b6.jpg",
-    date: "2. ÚNORA 2025",
+    date: "25. LEDNA 2025",
   },
 
   {
@@ -134,7 +134,7 @@ export const blog = [
     desc: "Každá pyramida je víc než kámen. Je to portál k osvícení, který nás učí, jak stavět naši vlastní cestu.",
     category: "Historie",
     cover: "../images/blogs/b7.jpg",
-    date: "3. ÚNORA 2025",
+    date: "24. LEDNA 2025",
   },
   {
     id: 8,
@@ -142,7 +142,7 @@ export const blog = [
     desc: "Co nás učí příprava na posmrtný život faraónů? Jaké hodnoty je třeba osvojit?",
     category: "Duchovno",
     cover: "../images/blogs/b8.jpg",
-    date: "4. ÚNORA 2025",
+    date: "23. LEDNA 2025",
   },
   {
     id: 9,
@@ -150,7 +150,7 @@ export const blog = [
     desc: "Poznej příběhy egyptských bohů a zjisti, jak nás mohou inspirovat k lepšímu životu.",
     category: "Mytologie",
     cover: "../images/blogs/b9.jpg",
-    date: "4. ÚNORA 2025",
+    date: "22. LEDNA 2025",
   },
   {
     id: 10,
@@ -158,7 +158,7 @@ export const blog = [
     desc: "Tradice Egypta nás učí vděčnosti a úctě k životu. Co všechno přežilo tisíce let?",
     category: "Kultura",
     cover: "../images/blogs/b10.jpg",
-    date: "4. ÚNORA 2025",
+    date: "20. LEDNA 2025",
   },
 ]
 
