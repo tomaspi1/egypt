@@ -78,8 +78,8 @@ export const category = [
 ]
 
 export const blog = [
-  {
-    id: 1,
+  /* {
+    id: 10,
     title: "PRVNÍ PŘÍSPĚVEK Z NILE: Cesta za Moudrostí",
     desc: "Když pohlédneš na Nil, pochopíš propojení všeho v tomto vesmíru. Naučí tě klidu v bouřích života, jako bohové, co čelí věčnosti. Jak proud řeky, tak i tvůj život, se neustále mění, ale vždy si najde svou cestu k moři. Můžeš se cítit ztracený, jako loď bez kompasu, ale pravda je, že i ztráta tě vede k novému začátku. Pamatuj, že skutečná síla není v tom, jak silně odoláváš vlnám, ale jak umíš plavat s proudem, když se ti zdá, že všechny cesty jsou uzavřené.Ať už čelíš čemukoliv, věz, že jsi součástí něčeho většího, něco nekonečného, a to tě má vést. Na každém kroku najdeš moudrost, kterou jsi hledal, jen se otevři novým možnostem a věř v sílu okamžiku.",
     category: "Příroda",
@@ -88,7 +88,7 @@ export const blog = [
     titleTag: "Cesta za Moudrostí"
   },
   {
-    id: 2,
+    id: 9,
     title: "JUPITER A VODOPÁDY: VÉVODA FARAÓNŮ",
     desc: "Vesmír je plný bohatství. Zasvěceni v sílu změny, stáváme se nezastavitelnými, stejně jako bohové, kteří tvoří osud.",
     category: "Příroda",
@@ -96,7 +96,7 @@ export const blog = [
     date: "4. ÚNORA 2025",
   },
   {
-    id: 3,
+    id: 8,
     title: "HROBKY KRÁLŮ: Začátek Velké Cesty",
     desc: "Zůstaň klidný, když se ztrácíš. V hrobkách a chrámech najdeš odpovědi, stejně jako Nil ti ukáže cestu životem.",
     category: "Hrobky",
@@ -104,7 +104,7 @@ export const blog = [
     date: "3. ÚNORA 2025",
   },
   {
-    id: 4,
+    id: 7,
     title: "Cesta k Hábitu Nefertiti: Tajemství proměny",
     desc: "Každý krok tě přibližuje k moudrosti. Zasvěceni se stávají mistry, to je poselství faraonů.",
     category: "Vesmír",
@@ -112,7 +112,7 @@ export const blog = [
     date: "2. ÚNORA 2025",
   },
   {
-    id: 5,
+    id: 6,
     title: "Síla Spojení",
     desc: "Spojené síly se stávají nezastavitelnými. Stejně jako bohové v Egyptě, tvoříme osud ve světě her.",
     category: "Bohové",
@@ -120,7 +120,7 @@ export const blog = [
     date: "28. LEDNA 2025",
   },
   {
-    id: 6,
+    id: 5,
     title: "Cesta k dokonalosti",
     desc: "Spoj se s vesmírem a objev svou pravou sílu. Buď jako vážka, která vždy ví, kdy a kde být, žij v souladu s vesmírem.",
     category: "Vesmír",
@@ -129,7 +129,7 @@ export const blog = [
   },
 
   {
-    id: 7,
+    id: 4,
     title: "ODHAL TAJEMSTVÍ STARÝCH PYRAMID",
     desc: "Každá pyramida je víc než kámen. Je to portál k osvícení, který nás učí, jak stavět naši vlastní cestu.",
     category: "Historie",
@@ -137,7 +137,7 @@ export const blog = [
     date: "24. LEDNA 2025",
   },
   {
-    id: 8,
+    id: 3,
     title: "Cesta faraona k věčnosti",
     desc: "Co nás učí příprava na posmrtný život faraónů? Jaké hodnoty je třeba osvojit?",
     category: "Duchovno",
@@ -145,15 +145,15 @@ export const blog = [
     date: "23. LEDNA 2025",
   },
   {
-    id: 9,
+    id: 2,
     title: "Mocní bohové Egypta a jejich vliv",
     desc: "Poznej příběhy egyptských bohů a zjisti, jak nás mohou inspirovat k lepšímu životu.",
     category: "Mytologie",
     cover: "../images/blogs/b9.jpg",
     date: "22. LEDNA 2025",
-  },
+  }, */
   {
-    id: 10,
+    id: 1,
     title: "Oslava života v Egyptě",
     desc: "Tradice Egypta nás učí vděčnosti a úctě k životu. Co všechno přežilo tisíce let?",
     category: "Kultura",
