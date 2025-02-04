@@ -24,7 +24,7 @@ export const DetailsPages = () => {
         <section className="singlePage">  {/* Celá sekce pro blog detail */}
           <div className="container">  {/* Kontejner pro zarovnání */}
             <div className="left">  {/* Levá část pro obrázek */}
-              <img src={blogs.cover} alt={blogs.title} />  {/* Zobrazí obrázek */}
+              <img src={blogs.cover} alt={blogs.title} loading="lazy" />  {/* Zobrazí obrázek s lazy loadingem */}
             </div>
             <div className="right">  {/* Pravá část pro text */}
               <h1>{blogs.title}</h1>  {/* Titulek článku */}

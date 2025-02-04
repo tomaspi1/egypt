@@ -11,7 +11,7 @@ export const blog = [
   {
     id: 1,
     title: "Oslava života v Egyptě",
-    desc: "Tradice Egypta nás učí vděčnosti a úctě k životu. Co všechno přežilo tisíce let?<br><br>Starověký Egypt, jedna z nejvíce fascinujících a mystických civilizací historie, není známý jen svou monumentální architekturou, královskými faraony a posvátnými pyramidami. Tento národ měl hluboký a vděčný vztah k životu – a právě tento pohled na existenci byl klíčem k jejich zázrakům, které dokázali stvořit.<br><br>V egyptské kultuře život a smrt nebyly oddělené. Smrt byla pouze přechodem do dalšího stavu bytí, a proto byla úcta k životu součástí každodenního chování.",
+    desc: "<p>Starověký Egypt, jedna z nejvíce fascinujících a mystických civilizací historie, není známý jen svou monumentální architekturou, královskými faraony a posvátnými pyramidami. Tento národ měl hluboký a vděčný vztah k životu – a právě tento pohled na existenci byl klíčem k jejich zázrakům, které dokázali stvořit.</p><p>V egyptské kultuře život a smrt nebyly oddělené. Smrt byla pouze přechodem do dalšího stavu bytí, a proto byla úcta k životu součástí každodenního chování. Egypťané věřili, že jakýkoli okamžik života na Zemi je cenný a měl by být prožíván v harmonii s přírodou, bohy a sousedy. Tento přístup byl pevně zakořeněn v náboženských a filozofických principech jejich společnosti.</p><p>Každý aspekt egyptského života, ať už to bylo zemědělství, umění nebo rodinné vztahy, měl svou duchovní hodnotu. Není divu, že slavili každodenní okamžiky, jako je úroda, setkání s přáteli, nebo i jednoduché rituály, které dodávaly každému dni smysl. Jedním z nejdůležitějších rituálů byl obřad uctívání přírodních sil a božstev, která dávala život. Bohyně Isis, bůh Ra, a mnoho dalších bohů byli ctěni nejen v chrámech, ale i v domácnostech, protože každý okamžik, každá kapka vody, každé zrnko písku měly svůj význam.</p><p>„Jsi jako Ra, což znamená, že tvoje cesta je věčná“ – tato myšlenka, inspirovaná egyptskými texty, ukazuje, jak byl život v Egyptě vnímán jako nekonečný cyklus, ve kterém každý člověk byl součástí většího příběhu.</p><p>Bohatá kultura Egypta byla oslavou života nejen pro krále a aristokracii, ale i pro běžného člověka. I obyčejný rolník, jehož život se často odehrával v těžké práci na polích, byl ve svém životě součástí vyššího řádu. Jeho práce měla smysl, jeho úsilí bylo důležité, a jeho radosti a strasti byly součástí většího božského plánu.</p><p>Ale Egypt nebyl jen o práci a uctívání božstev. Vědci, umělci, stavitelé a myslitelé všech vrstev společnosti se každý den potýkali s výzvami, ale i oslavovali krásu světa kolem sebe. Monumenty, malby, sochy a písma – to vše ukazuje, jak velmi si Egypťané vážili života a všeho, co s ním souviselo.</p><p>Na závěr je třeba připomenout, že oslavu života v Egyptě neskončila smrtí. Egypťané věřili, že každý člověk, ať už faraon nebo obyčejný člověk, měl právo na věčný život v posmrtném světě. Ať už to bylo díky mumifikaci, stavbě hrobek nebo modlitbám k bohům, byli si vědomi toho, že jejich životní cesta pokračuje.</p><p>Oslava života v Egyptě tedy není pouze historickou zajímavostí. Je to filozofie, která nás učí, jak si vážit přítomného okamžiku, jak vnímat propojení všech věcí v našem životě a jak oslavovat každý nádech, každé setkání, každou chvíli.</p>",
     category: "Kultura",
     cover: "../images/blogs/b10.jpg",
     date: "20. LEDNA 2025",
@@ -19,7 +19,7 @@ export const blog = [
   {
     id: 2,
     title: "Mocní bohové Egypta a jejich vliv",
-    desc: "<br>Poznej příběhy egyptských bohů a zjisti, jak nás mohou inspirovat k lepšímu životu...</br>",
+    desc: "<p>Poznej příběhy egyptských bohů a zjisti, jak nás mohou inspirovat k lepšímu životu...</p>",
     category: "Mytologie",
     cover: "../images/blogs/b9.jpg",
     date: "22. LEDNA 2025",
@@ -27,7 +27,7 @@ export const blog = [
   {
     id: 3,
     title: "Cesta faraona k věčnosti",
-    desc: "<br>Co nás učí příprava na posmrtný život faraónů? Jaké hodnoty je třeba osvojit?...</br>",
+    desc: "<p>Co nás učí příprava na posmrtný život faraónů? Jaké hodnoty je třeba osvojit?...</p>",
     category: "Duchovno",
     cover: "../images/blogs/b8.jpg",
     date: "23. LEDNA 2025",
@@ -35,7 +35,7 @@ export const blog = [
   {
     id: 4,
     title: "ODHAL TAJEMSTVÍ STARÝCH PYRAMID",
-    desc: "<br>Každá pyramida je víc než kámen. Je to portál k osvícení, který nás učí, jak stavět naši vlastní cestu.</br>",
+    desc: "<p>Každá pyramida je víc než kámen. Je to portál k osvícení, který nás učí, jak stavět naši vlastní cestu.</p>",
     category: "Historie",
     cover: "../images/blogs/b7.jpg",
     date: "24. LEDNA 2025",
@@ -43,7 +43,7 @@ export const blog = [
   {
     id: 5,
     title: "Síla Spojení",
-    desc: "<br>Spojené síly se stávají nezastavitelnými. Stejně jako bohové v Egyptě, tvoříme osud ve světě her.</br>",
+    desc: "<p>Spojené síly se stávají nezastavitelnými. Stejně jako bohové v Egyptě, tvoříme osud ve světě her.</p>",
     category: "Bohové",
     cover: "../images/blogs/b5.jpg",
     date: "28. LEDNA 2025",
@@ -51,7 +51,7 @@ export const blog = [
   {
     id: 6,
     title: "Cesta k dokonalosti",
-    desc: "<br>Spoj se s vesmírem a objev svou pravou sílu. Buď jako vážka, která vždy ví, kdy a kde být, žij v souladu s vesmírem.</br>",
+    desc: "<p>Spoj se s vesmírem a objev svou pravou sílu. Buď jako vážka, která vždy ví, kdy a kde být, žij v souladu s vesmírem.</p>",
     category: "Vesmír",
     cover: "../images/blogs/b6.jpg",
     date: "25. LEDNA 2025",
@@ -67,7 +67,7 @@ export const blog = [
   {
     id: 8,
     title: "HROBKY KRÁLŮ: Začátek Velké Cesty",
-    desc: "<br>Zůstaň klidný, když se ztrácíš. V hrobkách a chrámech najdeš odpovědi, stejně jako Nil ti ukáže cestu životem.</br>",
+    desc: "<p>Zůstaň klidný, když se ztrácíš. V hrobkách a chrámech najdeš odpovědi, stejně jako Nil ti ukáže cestu životem.</p>",
     category: "Hrobky",
     cover: "../images/blogs/b3.jpg",
     date: "3. ÚNORA 2025",
@@ -75,14 +75,14 @@ export const blog = [
   {
     id: 9,
     title: "JUPITER A VODOPÁDY: VÉVODA FARAÓNŮ",
-    desc: "<br>Vesmír je plný bohatství. Zasvěceni v sílu změny, stáváme se nezastavitelnými, stejně jako bohové, kteří tvoří osud.</br>",
+    desc: "<p>Vesmír je plný bohatství. Zasvěceni v sílu změny, stáváme se nezastavitelnými, stejně jako bohové, kteří tvoří osud.</p>",
     category: "Příroda",
     cover: "../images/blogs/b2.jpg",
     date: "4. ÚNORA 2025",
   },
   {
     id: 10,
-    title: "PRVNÍ PŘÍSPĚVEK Z NILE: Cesta za Moudrostí",
+    title: " Cesta za Moudrostí",
     desc: "<p>Když pohlédneš na Nil, pochopíš propojení všeho v tomto vesmíru. Naučí tě klidu v bouřích života, jako bohové, co čelí věčnosti...</p>",
     category: "Příroda",
     cover: "../images/blogs/b1.jpg",

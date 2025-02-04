@@ -19,10 +19,9 @@
   padding:30px;
 }
 .singlePage p {
-  padding: 45px 0;
+  margin: 45px 0;
   font-size: 20px;
   line-height: 2;
-  text-transform: capitalize;
 }
 .singlePage .buttons {
   display: flex;
